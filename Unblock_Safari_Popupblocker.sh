@@ -1,0 +1,1 @@
+defaults write com.apple.Safari WebKitJavaScriptCanOpenWindowsAutomatically -bool YES
