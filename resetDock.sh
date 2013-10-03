@@ -5,6 +5,8 @@
 
 #First we delete current dock
 rm ~/Library/Preferences/com.apple.dock.plist
+#Reset Dock
+killall "Dock"
 #Make Dock Un-editable
 defaults write com.apple.dock contents-immutable -bool TRUE
 #Reset Dock

@@ -2,7 +2,7 @@
 # TJ Houston @tjhouston tj@tjhouston.com
 # March 2012
 
-HomepageName="http://www.google.com"
+HomepageName="http://www.huronhs.com/learn.html"
 
 
 #Pre-Flight
